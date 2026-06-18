@@ -22,7 +22,7 @@ Dynamic link tracker with 15 features for visitor information.
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/IPI-RX.git
+git clone https://github.com/BMW3006/IPI-RX
 cd IPI-RX
 pip install -r requirements.txt
 python server.py
